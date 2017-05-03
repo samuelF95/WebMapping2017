@@ -1,0 +1,88 @@
+.app-header {
+    background-color: #00628B;
+    color: #E6E6DC;
+    font-family: sans-serif, Verdana, Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+}
+
+.app-header-small {
+    background-color: #00628B;
+    color: #E6E6DC;
+    font-family: sans-serif, Verdana, Arial;
+    font-weight: normal;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    color: #E6E6DC;
+}
+
+p {
+    font-family: sans-serif, Verdana;
+}
+
+h3 {
+    font-family: sans-serif, Arial;
+    font-weight: bold;
+    font-style: italic;
+    color: #00628B;
+    text-align: center;
+}
+
+label {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.error {
+    color: blue;
+    background-color: darkred;
+}
+
+.leaflet-container {
+    display: block;
+    margin: auto;
+    height: 600px;
+    width: 70%;
+}
+
+.centered {
+   position: fixed;
+      top: 30%;
+      left: 50%;
+      margin-top: -50px;
+      margin-left: -100px;
+}
+
+.wrapper{
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      margin-top: -30px;
+      margin-left: -100px;
+}
+
+.body {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.footer {
+    background-color: #00628B;
+    color: #E6E6DC;
+     font-family: sans-serif, Verdana, Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+     position: absolute;
+    bottom: 0;
+}
